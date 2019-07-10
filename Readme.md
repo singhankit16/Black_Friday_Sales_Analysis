@@ -50,12 +50,12 @@ Concluding, we learned a great deal about the dataset that we were given for thi
 
 ### Reference
 
-[1] https://en.wikipedia.org/wiki/Generalized_linear_model 
-[2] Hastie T, Tibshirani R, Friedman J. The Elements of Statistical Learning [Internet]. New York, NY: Springer New York; 2009. Available: http://link.springer.com/10.1007/978-0-387-84858-7 
-[3]https://www.kdnuggets.com/2017/10/xgboost-top-machine-learning-method-kaggle-explained.html 
-[4] Rennie JD, Shih L, Teevan J, Karger D. Tackling the poor assumptions of naive bayes text classifiers. International Conference on Machine Learning. 2003. p. 616. Available: http://www.aaai.org/Papers/ ICML/2003/ICML03-081.pdf 
-[5] Analytics Vidhya Discussion Forum - https://discuss.analyticsvidhya.com/t/black-friday-data-hack-reveal-your-approach/ 5986/8 
-[6] Understanding feature engineering in R - https://blogs.msdn.microsoft.com/microsoftrservertigerteam/2017/03/23/feature -engineering-using-r/ 
-[7] Diving into H2o - https://www.r-bloggers.com/diving-into-h2o/ 
-[8] H2o package reference in R - https://www.rdocumentation.org/packages/h2o/versions/3.20.0.8
+- https://en.wikipedia.org/wiki/Generalized_linear_model 
+- Hastie T, Tibshirani R, Friedman J. The Elements of Statistical Learning [Internet]. New York, NY: Springer New York; 2009. Available: http://link.springer.com/10.1007/978-0-387-84858-7 
+- https://www.kdnuggets.com/2017/10/xgboost-top-machine-learning-method-kaggle-explained.html 
+- Rennie JD, Shih L, Teevan J, Karger D. Tackling the poor assumptions of naive bayes text classifiers. International Conference on Machine Learning. 2003. p. 616. Available: http://www.aaai.org/Papers/ ICML/2003/ICML03-081.pdf 
+- Analytics Vidhya Discussion Forum - https://discuss.analyticsvidhya.com/t/black-friday-data-hack-reveal-your-approach/ 5986/8  
+- Understanding feature engineering in R - https://blogs.msdn.microsoft.com/microsoftrservertigerteam/2017/03/23/feature -engineering-using-r/ 
+- Diving into H2o - https://www.r-bloggers.com/diving-into-h2o/ 
+- H2o package reference in R - https://www.rdocumentation.org/packages/h2o/versions/3.20.0.8
 
