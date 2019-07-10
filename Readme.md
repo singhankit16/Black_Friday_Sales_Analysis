@@ -42,4 +42,20 @@ including those two features in the model lead to great computation resources an
 ### Experimental Results
  
  ![image](https://github.com/singhankit16/Black_Friday_Sales_Analysis/blob/master/Model_results.PNG)
+ 
+
+### Conclusion
+
+Concluding, we learned a great deal about the dataset that we were given for this competition and the subset of the test data which we decided to use for the project. We had a few questions at the start of this project, of which the most important was: “If none of the powerful models are working, what changes should we do to lower down our RMSE”. The answer to this question was “Feature Engineering”, the most important and distinguishing factor. We learned to leverage the art of feature engineering and how it can make all the difference in the performance of the model. The next hindrance we faced was computation on such a huge dataset using standard configuration machines. Apache’s H2O package was the real savior and helped to increase our efficiency by lowering down the model computation time. In terms of model evaluation, we did use a fair evaluation strategy using cross-validation for regularization hyperparameters and GLM was selected to be the winner. GLM captured the variance between training and test dataset by maintaining good bias-variance trade-off and giving high performance on RMSE metric. Overall, while doing this project, effectively implementing advanced analytics practices, we learnt about the importance of memory optimization, understanding the dataset thoroughly and feature engineering. The message for us was that in the real world the model optimization and evaluation can only be done once all these steps have been thoroughly worked on before.
+
+### Reference
+
+[1] https://en.wikipedia.org/wiki/Generalized_linear_model 
+[2] Hastie T, Tibshirani R, Friedman J. The Elements of Statistical Learning [Internet]. New York, NY: Springer New York; 2009. Available: http://link.springer.com/10.1007/978-0-387-84858-7 
+[3]https://www.kdnuggets.com/2017/10/xgboost-top-machine-learning-method-kaggle-explained.html 
+[4] Rennie JD, Shih L, Teevan J, Karger D. Tackling the poor assumptions of naive bayes text classifiers. International Conference on Machine Learning. 2003. p. 616. Available: http://www.aaai.org/Papers/ ICML/2003/ICML03-081.pdf 
+[5] Analytics Vidhya Discussion Forum - https://discuss.analyticsvidhya.com/t/black-friday-data-hack-reveal-your-approach/ 5986/8 
+[6] Understanding feature engineering in R - https://blogs.msdn.microsoft.com/microsoftrservertigerteam/2017/03/23/feature -engineering-using-r/ 
+[7] Diving into H2o - https://www.r-bloggers.com/diving-into-h2o/ 
+[8] H2o package reference in R - https://www.rdocumentation.org/packages/h2o/versions/3.20.0.8
 
