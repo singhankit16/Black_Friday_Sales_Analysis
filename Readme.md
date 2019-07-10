@@ -41,5 +41,5 @@ including those two features in the model lead to great computation resources an
 
 ### Experimental Results
  
- (https://github.com/singhankit16/Black_Friday_Sales_Analysis/blob/master/Model_results.PNG)
+ ![image](https://github.com/singhankit16/Black_Friday_Sales_Analysis/blob/master/Model_results.PNG)
 
